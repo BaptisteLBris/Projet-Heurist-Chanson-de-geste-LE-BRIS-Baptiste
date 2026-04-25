@@ -1,10 +1,9 @@
 Nom;Type;Latitude;Longitude;Description
 Ronceveaux;Col;43.0094;-1.3198;Lieu de la bataille de Roncevaux
-Bordeaux;Ville;44.8378;-0.5792;Ville importante de la région gasconne
-Orange;Ville;44.1386;4.8103;Fief de Guillaume d’Orange
-Toulouse;Ville;43.6047;1.4442;Ville stratégique du sud de la France
-Narbonne;Ville;43.1847;3.0030;Ville liée aux combats du cycle de Guillaume
-Antioche;Ville;36.2021;36.1600;Ville assiégée lors de la Première croisade
-Jérusalem;Ville;31.7683;35.2137;Objectif principal des croisés
-Constantinople;Ville;41.0082;28.9784;Capitale de l’Empire byzantin
-;;;;
+Bordeaux;Ville;44.8378;-0.5792;Ville importante de la rÃ©gion gasconne
+Orange;Ville;44.1386;4.8103;Fief de Guillaume dâ€™Orange
+Toulouse;Ville;43.6047;1.4442;Ville stratÃ©gique du sud de la France
+Narbonne;Ville;43.1847;3.0030;Ville liÃ©e aux combats du cycle de Guillaume
+Antioche;Ville;36.2021;36.1600;Ville assiÃ©gÃ©e lors de la PremiÃ¨re croisade
+JÃ©rusalem;Ville;31.7683;35.2137;Objectif principal des croisÃ©s
+Constantinople;Ville;41.0082;28.9784;Capitale de lâ€™Empire byzantin
